@@ -1,5 +1,5 @@
 {
-  "name": "react-native-push-notification",
+  "name": "@metamask/react-native-push-notification",
   "version": "3.1.3",
   "description": "React Native Local and Remote Notifications",
   "main": "index",
@@ -17,11 +17,11 @@
     "gcm"
   ],
   "bugs": {
-    "url": "https://github.com/zo0r/react-native-push-notification/issues"
+    "url": "https://github.com/MetaMask/react-native-push-notification/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
+    "url": "git+ssh://git@github.com:MetaMask/react-native-push-notification.git"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
